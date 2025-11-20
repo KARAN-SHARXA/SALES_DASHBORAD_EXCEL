@@ -116,7 +116,7 @@ The dashboard provides a complete snapshot of business performance.
 (Add your images below.
 
 Example:
-<img src="C:\Users\karan\OneDrive\Pictures\Screenshots\Screenshot 2025-11-20 104850.png">
+<img src="Screenshot 2025-11-20 104928.png">
 
 ## 🎥 **Dashboard Video Demo**
 (Add your demo video in the `/video` folder and link it here.)
