@@ -116,20 +116,7 @@ The dashboard provides a complete snapshot of business performance.
 (Add your images below.
 
 Example:
-
-````
-![Dashboard Overview](/mnt/data/8a4c26b4-1946-4198-a728-4891628177c2.png)
-``` after placing them in the `images/` folder.)
-
-Example:
-````
-
-![Dashboard Overview](images/dashboard_main.png)
-![Pivot Tables](images/pivot_tables.png)
-
-```
-
----
+<img src="C:\Users\karan\OneDrive\Pictures\Screenshots\Screenshot 2025-11-20 104850.png">
 
 ## 🎥 **Dashboard Video Demo**
 (Add your demo video in the `/video` folder and link it here.)
