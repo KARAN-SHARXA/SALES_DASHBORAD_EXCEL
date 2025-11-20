@@ -113,30 +113,15 @@ The dashboard provides a complete snapshot of business performance.
 
 ## 🖼️ **Dashboard Screenshots**
 
-(Add your images below.
+
 
 Example:
 <img src="Screenshot 2025-11-20 104928.png">
 
-## 🎥 **Dashboard Video Demo**
-(Add your demo video in the `/video` folder and link it here.)
 
-Example:
-```
-
-[Click to watch dashboard demo](video/sales_dashboard_demo.mp4)
-
-```
 
 ---
 
-## 📁 **Files Included in the Project**
-- `Sales_Raw_Data.xlsx` – Original dataset
-- `Sales_Cleaned_Data.xlsx` – Cleaned & formatted data
-- `Dashboard.xlsx` – Final dashboard
-- `README.md` – Project documentation
-- `/images` – Folder containing dashboard screenshots
-- `/video` – Demo video folder
 
 ---
 
